@@ -4,20 +4,18 @@ This is the numerical implementation accompanying the paper "Inexact Bilevel Sto
 
 ## 1. Software Requirements
 
-The code was implemented in Python 3.6 and requires the following libraries:
+The code was implemented in Python 3.7.12 and requires the following libraries:
 
-+ numpy
-+ pandas
-+ torch
-+ torchvision
-+ scipy
-+ seaborn
-+ matplotlib
-+ math
-+ os
-+ random
-+ time
-+ tarfile
++ cudatoolkit 11.3.1
++ numpy 1.21.5
++ pandas 1.3.5
++ scikit-learn 1.0.2
++ torch 1.10.0
++ torchvision 0.11.0
++ torchauio 0.10.0
++ scipy 1.7.3
++ seaborn 0.12.2
++ matplotlib 3.5.3
 
 
 ## 2. Python Scripts
